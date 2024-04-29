@@ -1,0 +1,76 @@
+style.css
+body{
+    margin: 0;
+    display: flex; 
+    justify-content:center;
+}
+
+.cabecalho__marca__logo{
+    width: 10%;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.cabecalho__marca__nome{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    height: 100px;
+    margin-top: -90px;
+    font-size: 60px;
+    color:#CACACA;
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cabecalho__menu__link{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #ABABAB;
+    border-radius: 5px;
+    font-size: 25px;
+    text-decoration:none;
+    margin-left: 90px;
+    
+}
+
+.cabecalho__menu__link_{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #ABABAB;
+    border-radius: 5px;
+    font-size: 25px;
+    text-decoration:none; 
+    margin-left: 60px;  
+}
+
+.apresentacao__conteudo__titulo{
+        font-family: "Russo One", sans-serif;
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 60px;
+      
+}
+
+.apresentacao__conteudo__texto{
+    font-size: 25px;
+    color: black;
+    margin-left: 30px;
+
+}
+
+.apresentacao__imagem{
+    width: 30%;
+    margin-left: 980px;
+    margin-top: -400px;
+
+}
+
+.apresentacao__links__navegacao__imagem_insta{
+    width: 100px;
+    margin-left: 1020px;
+    margin-top: 20px;
+    
+}
+
+    
